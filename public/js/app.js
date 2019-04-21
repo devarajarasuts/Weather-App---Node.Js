@@ -1,5 +1,5 @@
-const weatherForm = document.querySelector('form')
-const search = document.querySelector('input')
+const weatherForm = document.querySelector('form');
+const search = document.querySelector('input');
 
 const messageOne = document.querySelector('#message-one');
 const messageTwo = document.querySelector('#message-two');
